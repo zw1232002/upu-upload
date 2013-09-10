@@ -1,9 +1,7 @@
 # upu-upload #
 修改者：Coly
 原作者：http://www.ugia.cn/?p=70
-
-==========
-
+--------------------------------------
 It's fixed version for UGiA PHP UPLOADER V0.21
 
 ### 主要修改说明：
