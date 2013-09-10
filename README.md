@@ -1,4 +1,4 @@
-# UPU-UPLOAD (PHP SOCKET 大文件上传)#
+# UPU-UPLOAD(PHP SOCKET大文件上传)#
 ## 修改者：Coly ##
 ##### 原作者：http://www.ugia.cn/?p=70 #####
 --------------------------------------
@@ -33,6 +33,6 @@ It's fixed version for UGiA PHP UPLOADER V0.21
 
 >  2. upu/temp为上传临时文件存放目录, upu/files为文件存放目录,这两个目录可以在upu.class.php中指定。
 
->  3. 你的<form>中要有enctype="multipart/form-data"这个属性，action为文件上传成功后的处理页面，也就是说你的<form>完全按照正常的思路来写就可以了，唯一不同的是需要加入onsubmit="return upuInit(this)"
+>  3. 你的form中要有enctype="multipart/form-data"这个属性，action为文件上传成功后的处理页面，也就是说你的form完全按照正常的思路来写就可以了，唯一不同的是需要加入onsubmit="return upuInit(this)"
 
 >  4. 上传成功后，可以使用$_POST来获取表单数据 
