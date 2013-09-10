@@ -1,0 +1,16 @@
+var lang_completed  = "Completed";
+var lang_uploading  = "Uploading";
+var lang_done       = "Upload completed, Plese wait...";
+var lang_uploaded   = "Uploaded";
+var lang_totalsize  = "Total";
+var lang_elapsetime = "Elapse Time";
+var lang_remaintime = "Remain Time";
+var lang_traspeed   = "Ave Speed";
+var lang_plzwait    = "Please wait ...";
+var lang_prepare    = "Preparing upload ...";
+var lang_initialize = "Initializing ...";
+var lang_hour       = "Hours";
+var lang_minute     = "Min";
+var lang_second     = "Sec";
+var lang_ok         = "Ok";
+var lang_cancel     = "Cancel";

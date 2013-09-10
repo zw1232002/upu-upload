@@ -1,0 +1,43 @@
+body {
+    border: 0;
+    margin-left: 4px;
+    background: buttonface;
+    text-align: center;
+    overflow: hidden;
+}
+
+body, td, button, input, div, p, span {
+    font-size: 12px;
+    font-family: tahoma;
+}
+
+#div_progress {
+    border: 1px solid;
+    width:  345px;
+    height: 10px;
+    border-color: buttonshadow buttonhighlight buttonhighlight buttonshadow;
+}
+
+#progressbar {
+    height: 10px;
+    width:  0;
+    font-size: 6px;
+    background: #0A246A;
+}
+
+span {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#transinfo {
+    width: 350px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.fixwidth {
+    width: 75px;
+}
